@@ -19,8 +19,8 @@ Troubleshoot: Visit `http://localhost/respond/app/test/` to see a health check o
 
 Both docker images allow for persisting data changes to disk through either data containers or mounting host folders. For guides on that please see:
 
--	[Php (with and without Apache)](https://hub.docker.com/_/php/)
-- [MariaDB](https://hub.docker.com/_/mariadb/)
+-	[Php docker image (with and without Apache)](https://hub.docker.com/_/php/)
+- [MariaDB docker image](https://hub.docker.com/_/mariadb/)
 
 # TODO
 
