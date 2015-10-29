@@ -1,6 +1,6 @@
 # Dockerized Respond CMS.
 
-Still quite experimental. Currently don't have plans for making this super robust. But it can server to kickstart someone else out there? Only tested on Ubuntu 14.04.
+Still quite experimental. Currently don't have plans for making this super robust. But it can serve to kickstart someone else out there? Only tested on Ubuntu 14.04.
 
 # Prerequisites
 
