@@ -8,7 +8,7 @@ Still quite experimental. Currently don't have plans for making this super robus
 
 # Usage
 
-1. Run `./build.sh` to fetch the latest Respond Cms and construct a Docker image for database and web server.
+1. Run `./build.sh` to fetch the latest Respond Cms and construct Docker images for database and web server.
 2. Run `./start-db.sh` which will start up a database docker container. It might take 5-20s before it's completely ready.
 3. Run `./start-server.sh` to start the web server.
 4. Visit `http://localhost/respond/app/` to see the admin screen.
